@@ -18,7 +18,7 @@ CONTRIBUTERS: Scott Crossen
 	      Kamdon (Riding on the coatails of the team)
 
 SUMMARY:
-This is a project designed to quickly gather pressure information from baratrons. It can also be used to gather most voltage measuremnts across the first two channels of a DAQ.
+This is a project designed to quickly gather pressure information from baratrons. It can also be used to gather most voltage measurements across the first two channels of a DAQ.
 
 INSTRUCTIONS:
 - Plug in your 1000 Torr Baratron to DAQ Analog Input 0.
