@@ -15,7 +15,7 @@ BYU PHSCS 245 Project
 OWNER: Scott Leland Crossen
 CONTRIBUTERS: Scott Crossen
 	      Ryan Doel (Team Captain)
-	      Kamdon (Riding on the coatails of the team)
+	      Camdon Hatch (Riding on the coatails of the team)
 
 SUMMARY:
 This is a project designed to quickly gather pressure information from baratrons. It can also be used to gather most voltage measurements across the first two channels of a DAQ.
